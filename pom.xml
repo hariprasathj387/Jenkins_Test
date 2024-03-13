@@ -5,7 +5,7 @@
 	<groupId>Jenkins_Test</groupId>
 	<artifactId>Jenkins_Test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	#Ready
+	#Ready ww
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
